@@ -1,0 +1,16 @@
+{
+  "name": "create-movie",
+  "description": "description",
+  "version": "0.0.0",
+  "author": "sipuden <112772825+sipuden@users.noreply.github.com>",
+  "bin": "src/cli.js",
+  "files": [
+    "src",
+    "templates"
+  ],
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "create-create-app": "^7.3.0"
+  },
+  "license": "MIT"
+}
